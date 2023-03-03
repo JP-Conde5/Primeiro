@@ -1,0 +1,39 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+
+h2{
+    color: red;
+    text-align: center;
+}
+
+h3{
+    color: yellow; 
+    text-align: center;
+}
+
+h4{
+    color: green;
+    text-align: center;
+}
+h5{
+    color: black;
+    text-align: center;
+}
+h6{
+    color: greenyellow;
+    text-align: center;
+}
+h1#page1{
+    color: lightblue;
+}
+h1.page2{
+    color: yellow;
+}
+body ul li{
+    color: lightblue;
+}
+body ol li{
+    color: yellow;
+}
